@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    /*border: red solid 1px;*/
+}
+
+.first-section{
+    background-color: gray;
+    height: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: hsl(350, 100%, 88%);
+    font-size: 18px;
+    margin: 10px;
+}
+
+#logo{
+    font-size: 24px;
+    color: purple;
+}
+
+a:hover{
+    color: hsl(350, 100%, 68%);
+    cursor: pointer;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 50px;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-left, .nav-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
