@@ -90,7 +90,8 @@ ul{
 
 .juri-home-bar{
     height: 50px;
-    background-color: hsl(281, 100%, 19%);Bu    display: flex;
+    background-color: hsl(281, 100%, 19%);
+    display: flex;
     justify-content: center;
     align-items: center;
 }
