@@ -43,3 +43,58 @@ ul{
     justify-content: center;
     align-items: center;
 }
+
+.juri-pic{
+    float: left;
+}
+
+.juri-info{
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 75px;
+    color: white;
+}
+
+.juri-first-section{
+    display: flex;
+    justify-content: center;
+    background-color: hsl(281, 100%, 19%);
+    height: 250px;
+}
+
+.juri-first-combo-section{
+    height: 321px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+.f-j-w-n{
+    padding-left: 200px;
+    font-size: 25px;
+}
+
+.juri-second-combo-section{
+    height: 321px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 26px;
+}
+
+.s-j-w-n{
+    padding-left: 200px;
+    font-size: 25px;
+}
+
+.juri-home-bar{
+    height: 50px;
+    background-color: hsl(281, 100%, 19%);Bu    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
